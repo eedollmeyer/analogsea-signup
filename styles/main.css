@@ -24,6 +24,8 @@ img {
 	background-color: white;
 	margin: auto;
 	font-family: 'Roboto' sans-serif;
+	border: 1px solid white;
+	border-radius: 5px;
 }
 
 h1 {
