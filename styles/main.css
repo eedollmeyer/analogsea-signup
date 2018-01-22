@@ -64,6 +64,11 @@ button {
 	font-size: 110%;
 }
 
+button:hover {
+	background-color: #00994d;
+	border: 2px solid #00994d;
+}
+
 .login-option {
 	color: white;
 	font-weight: bold;
