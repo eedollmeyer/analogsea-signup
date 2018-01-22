@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+* {
+	font-family: 'Roboto' sans-serif;
+}
+
+body {
+	background-color: #4286f4;
+	margin: auto;
+}
+
+img {
+	height: 35px;
+	display: block;
+	margin: auto;
+	padding: 35px;
+}
+
+.container {
+	box-sizing: border-box;
+	width: 400px;
+	padding: 60px 40px;
+	padding-top: 30px;
+	background-color: white;
+	margin: auto;
+	font-family: 'Roboto' sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Roboto';
+	font-weight: lighter;
+}
+
+form {
+	background-color: white;
+}
+
+label {
+	display: block;
+	padding: 15px 0px 15px 0px;
+	font-family: 'Roboto';
+}
+
+input {
+	width: 320px;
+	border: 2px solid #E8E8E8;
+	border-radius: 5px;
+	background-color: #F0F0F0;
+	padding: 15px;
+	box-sizing: border-box;
+}
+
+button {
+	margin-top: 15px;
+	box-sizing: border-box;
+	width: 320px;
+	height: 55px;
+	border: 2px solid #00b359;
+	border-radius: 5px;
+	background-color: #00b359;
+	color: white;
+	padding: 15px;
+	font-size: 110%;
+}
+
+.login-option {
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Roboto'
+}
+
+.login-option span a {
+	color: white;
+}
